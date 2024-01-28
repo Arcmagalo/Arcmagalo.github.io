@@ -33,9 +33,12 @@
             margin: 8px 0;
             border: none;
             cursor: pointer;
-            text-align: center; 
-            font-family: Georgia, 'Times New Roman', Times, serif; 
-            font-weight: bold;
+            textarea {
+                margin: 0;
+                font-family: Georgia, 'Times New Roman', Times, serif;;
+                font-size: inherit;
+                line-height: inherit;
+              }
         }       
        
 /*!
@@ -265,7 +268,7 @@
   }
   
   button {
-    border-radius: 0;
+    border-radius: 2;
   }
   
   button:focus {
