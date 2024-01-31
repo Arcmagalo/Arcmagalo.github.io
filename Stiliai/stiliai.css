@@ -1,8 +1,9 @@
 .login-container {
             width: auto;
+            height: 20px;;
             padding: 16px;
             margin: 0 auto;
-            border: 1px solid #ccc;
+            border: 1px solid #46ac0b;
         }
 
 .login-container input[type="text"],
