@@ -1,9 +1,8 @@
 .login-container {
-            width: auto;
+            width: 200px;
             padding: 16px;
             margin: 0 auto;
             border: 1px solid #46ac0b;
-            font-size: 18px;
         }
 
 .login-container input[type="text"],
@@ -30,8 +29,9 @@
         {
             width: 100%;
             background-color: #143f9c;
+            font-size: 18px;
             color: white;
-            padding: 3px 5px;
+            padding: 14px 20px;
             margin: 0 0 ;
             border: none;
             cursor: pointer;
