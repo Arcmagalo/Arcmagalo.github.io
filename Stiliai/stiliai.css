@@ -30,8 +30,9 @@
             width: 100%;
             background-color: #4CAF50;
             color: white;
+            text-size-adjust: auto;
             padding: 14px 20px;
             margin: 0 0 ;
             border: 4px dotted blue ;
-            cursor: crosshair;
+            cursor: pointer;
         }       
