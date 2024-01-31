@@ -27,7 +27,8 @@
 
         .login-container button[type="btn"] 
         {
-            width: auto;
+            width: 100%;
+            height: fit-content;
             background-color: #4CAF50;
             color: white;
             padding: 10%;
