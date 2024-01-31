@@ -27,12 +27,12 @@
 
         .login-container button[type="btn"] {
             width: auto;
-            padding: 0%;
-            margin: 100%;
+            background-color: #4CAF50;
+            padding: 10%;
+            margin: 8;
             border: none ;
             cursor: pointer;
             textarea {
-                background-color: #4CAF50;
                 color: white;
                 margin: none;
                 padding: none;
