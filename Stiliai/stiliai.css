@@ -27,7 +27,7 @@
 
         .login-container button[type="btn"] {
             width: auto;
-            background-image: url('jpegai/Fonai/01fonas.jpg');
+            background-image: url('/jpegai/Fonai/01fonas.jpg');
             padding: 80%;
             margin: none;
             border: none ;
@@ -41,7 +41,7 @@
                 border: none ;
                 font-family: Georgia, 'Times New Roman', Times, serif;
                 font-size: relative;
-                line-height: 100%;
+                line-height: normal;
                      };
         }       
        
