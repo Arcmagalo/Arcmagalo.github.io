@@ -27,9 +27,8 @@
 
         .login-container button[type="btn"] {
             width: auto;
-            background-image: url('/jpegai/Fonai/01fonas.jpg');
-            padding: 80%;
-            margin: none;
+            padding: 0%;
+            margin: 100%;
             border: none ;
             cursor: pointer;
             textarea {
