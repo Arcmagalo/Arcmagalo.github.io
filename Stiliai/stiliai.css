@@ -27,12 +27,12 @@
 
         .login-container button[type="btn"] 
         {
-            width: 100%;
-            height: fit-content;
+            width: auto;
+            height: auto;
             background-color: #4CAF50;
             color: white;
-            padding: 10%;
-            margin: 10%;
+            padding: 3px;
+            margin: 2px;
             border: 2px dotted blue ;
             cursor: crosshair;
             font-family: Georgia, 'Times New Roman', Times, serif;
