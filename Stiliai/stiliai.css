@@ -25,23 +25,16 @@
             cursor: pointer;
         }
 
-        .login-container button[type="btn"] {
+        .login-container button[type="btn"] 
+        {
             width: auto;
             background-color: #4CAF50;
-            padding: 10%;
-            margin: 8;
+            color: white;
+            padding: none;
+            margin: none;
             border: none ;
-            cursor: pointer;
-            textarea {
-                color: white;
-                margin: none;
-                padding: none;
-                margin: none;
-                border: none ;
-                font-family: Georgia, 'Times New Roman', Times, serif;
-                font-size: relative;
-                line-height: normal;
-                     };
+            cursor: zoom-in;
+            font-family: Georgia, 'Times New Roman', Times, serif;
         }       
        
 /*!
