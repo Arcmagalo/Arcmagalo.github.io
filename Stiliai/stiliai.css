@@ -28,13 +28,13 @@
         .login-container button[type="btn"] 
         {
             background-color: #4CAF50;
-            padding: auto 8px 8px auto;
-            margin: auto 10px 10px auto;
-            border: 5px dotted blue ;
+            padding: auto;
+            margin: auto;
+            border: 2px dotted blue ;
             textarea  {
               color: white;
-              padding: auto 8px 8px auto;
-              margin: auto 10px 10px auto;
+              padding: 10px;
+              margin: 10px;
               font-family: Georgia, 'Times New Roman', Times, serif;
               text-align: center;
               cursor: crosshair;
