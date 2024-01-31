@@ -27,16 +27,18 @@
 
         .login-container button[type="btn"] 
         {
-            width: auto;
-            height: auto;
             background-color: #4CAF50;
-            color: white;
             padding: auto 8px 8px auto;
             margin: auto 10px 10px auto;
             border: 5px dotted blue ;
-            cursor: crosshair;
-            font-family: Georgia, 'Times New Roman', Times, serif;
-            text-align: center;
+            textarea  {
+              color: white;
+              padding: auto 8px 8px auto;
+              margin: auto 10px 10px auto;
+              font-family: Georgia, 'Times New Roman', Times, serif;
+              text-align: center;
+              cursor: crosshair;
+                      }
         }       
        
 /*!
