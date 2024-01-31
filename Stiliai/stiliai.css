@@ -27,14 +27,14 @@
 
         .login-container button[type="btn"] 
         {
+            
+            width: 100%;
             background-color: #4CAF50;
-            padding: auto;
-            margin: auto;
+            padding: 14px 20px;
+            margin: 0 0 ;
             border: 2px dotted blue ;
             textarea  {
               color: white;
-              padding: 10px;
-              margin: 10px;
               font-family: Georgia, 'Times New Roman', Times, serif;
               text-align: center;
               cursor: crosshair;
