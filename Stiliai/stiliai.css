@@ -31,12 +31,12 @@
             height: auto;
             background-color: #4CAF50;
             color: white;
-            padding: 3px;
-            margin: 2px;
-            border: 2px dotted blue ;
+            padding: 8px;
+            margin: 10px;
+            border: 5px dotted blue ;
             cursor: crosshair;
             font-family: Georgia, 'Times New Roman', Times, serif;
-            text-align: center;
+            text-align: justify;
         }       
        
 /*!
