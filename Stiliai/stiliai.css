@@ -30,11 +30,12 @@
             width: auto;
             background-color: #4CAF50;
             color: white;
-            padding: none;
+            padding: 10%;
             margin: none;
-            border: none ;
+            border: 2px dotted blue ;
             cursor: zoom-in;
             font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
         }       
        
 /*!
