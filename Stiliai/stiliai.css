@@ -31,9 +31,9 @@
             background-color: #4CAF50;
             color: white;
             padding: 10%;
-            margin: none;
+            margin: 10%;
             border: 2px dotted blue ;
-            cursor: zoom-in;
+            cursor: crosshair;
             font-family: Georgia, 'Times New Roman', Times, serif;
             text-align: center;
         }       
