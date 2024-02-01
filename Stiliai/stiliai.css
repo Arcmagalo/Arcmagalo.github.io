@@ -1,7 +1,7 @@
 .login-container {
             width: 80%;
             padding: 1% 1% 1% 1%;
-            margin: 10% 4% 4% 10%;
+            margin: 2% 1% 1% 10%;
             border: 3px dotted #46ac0b;
             border-radius: 5px;
         }
@@ -9,8 +9,7 @@
 .login-container input[type="text"],
 .login-container input[type="password"] {
             width: 100%;
-            padding: 12px 20px;
-            margin: 8px 0;
+            padding: 5px 5px;
             display: inline-block;
             border: 1px solid #ccc;
             box-sizing: border-box;
@@ -20,8 +19,12 @@
             width: 100%;
             background-color: #4CAF50;
             color: white;
-            padding: 14px 20px;
-            margin: 0 0 ;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 1.5em;
+            text-align: center;
+            font-weight:bold;
+            padding: 5px 5px;
+            border-radius: 1em;
             border: none;
             cursor: pointer;
         }
@@ -30,12 +33,13 @@
         {
             width: 100%;
             background-color: rgba(36, 62, 214, 0.8);
+            color: white;
             font-family: 'Times New Roman', Times, serif;
-            font-size:x-large;
+            font-size: auto;
             text-align: center;
             font-weight:bold;
-            padding: 14px 15px;
-            border-radius: 5px;
+            padding: auto;
+            border-radius: 1em;
             border: none;
             cursor: pointer;
         }  
