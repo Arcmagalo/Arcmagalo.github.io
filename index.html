@@ -23,34 +23,46 @@ font-family:Georgia, 'Times New Roman', Times, serif;">
 </h2>
 
 <h3>
- <style>
-    table, th, td {
-      border:none
-    }
- </style>
-
+    <style>
+        table {
+          border-collapse: separate;
+          width: 100%;
+        }
+        
+        td, th {
+          border: none;
+          text-align: center;
+          font-size: relative 100%;
+          padding: relative 100% ;
+        }
+        
+        tr:nth-child(even) {
+          background-color: #dddddd;
+        }
+        </style>
   <table>
-   <th><div class="login-container"> 
+   <tr>
+    <th><div class="login-container"> 
          <button type="btn" onclick="window.location.href = 'Portfolio/PortfolioLT.html'">
-           <div class="animated_rainbow_1"><i>Portfolio</i></div>
+          <div class="animated_rainbow_1"><i>Portfolio</i></div>
          </button>   
+        </div>
+    </th>
+
+    <th><div class="login-container"> 
+         <button type="btn" onclick="window.location.href = 'Portfolio/PortfolioLT.html'">
+          <div class="animated_rainbow_2"><i>Portfolio</i></div>
+         </button>   
+        </div>
+    </th>
+
+   <th><div class="login-container"> 
+        <button type="btn" onclick="window.location.href = 'Portfolio/PortfolioLT.html'">
+         <div class="animated_rainbow_3"><i>Portfolio</i></div>
+        </button>   
        </div>
    </th>
-
-   <th><div class="login-container"> 
-    <button type="btn" onclick="window.location.href = 'Portfolio/PortfolioLT.html'">
-      <div class="animated_rainbow_2"><i>Portfolio</i></div>
-    </button>   
-  </div>
-</th>
-
-<th><div class="login-container"> 
-    <button type="btn" onclick="window.location.href = 'Portfolio/PortfolioLT.html'">
-      <div class="animated_rainbow_3"><i>Portfolio</i></div>
-    </button>   
-  </div>
-</th>
- 
+   </tr>
   </table>
 </h3>
 
